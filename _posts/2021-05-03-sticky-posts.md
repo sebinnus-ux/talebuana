@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sticky Posts"
-author: "Chester"
+author: "Buana Admin"
 tags: Tutorial
 excerpt_separator: <!--more-->
 ---
