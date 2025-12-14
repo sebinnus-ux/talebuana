@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Managing Excerpt"
-author: "Chester"
+author: "Buana Admin"
+comments: true
 tags: Tutorial
 excerpt_separator: <!--more-->
 ---

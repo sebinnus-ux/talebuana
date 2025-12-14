@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-author: "Jekyll"
+author: "Buana Admin"
 tags: Jekyll
 ---
 

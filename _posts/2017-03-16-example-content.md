@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Example Content"
-author: "Chester"
-tags: Example
+author: "Buana Admin"
+tags: Tutorial
 excerpt_separator: <!--more-->
 ---
 

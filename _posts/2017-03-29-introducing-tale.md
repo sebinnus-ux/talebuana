@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Introducing Tale"
-author: "Chester"
+author: "Buana Admin"
 comments: true
-tags: Tale
+tags: Tutorial
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true
