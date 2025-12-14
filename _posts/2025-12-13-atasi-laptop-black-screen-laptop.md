@@ -6,7 +6,7 @@ tags: Tutorial
 excerpt_separator: <!--more-->
 ---
 
-Inilah Cara Mengatasi Laptop Black Screen dengan Gampang- Kondisi black screen atau laptop dengan tampilan layar hitam polos merupakan salah satu masalah kerusakan laptop yang kerap dialami oleh para pengguna laptop. Seringnya penggunaan laptop dan kelalaian dalam perawatan dapat menyebabkan laptop mudah rusak.
+Inilah Cara Mengatasi Laptop Black Screen dengan Gampang- Kondisi black screen atau laptop dengan tampilan layar hitam polos merupakan salah satu masalah kerusakan laptop yang kerap dialami oleh para pengguna laptop. Seringnya penggunaan laptop dan kelalaian dalam perawatan dapat menyebabkan laptop mudah rusak.<!--more-->
 
 [Cara Mengatasi Laptop Black Screen](https://raw.githubusercontent.com/sebinnus-ux/talebuana/master/assets/LaptopBlackScreen.jpg)
 

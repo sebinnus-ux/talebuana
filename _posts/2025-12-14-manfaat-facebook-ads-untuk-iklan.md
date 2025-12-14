@@ -6,7 +6,7 @@ tags: Facebook
 excerpt_separator: <!--more-->
 ---
 
-Banyak Sekali Manfaat Facebook Ads untuk Efektivitas Iklan Bisnis - Di era digital yang berkembang pesat, media sosial sudah menjadi bagian yang tidak terpisahkan dari kehidupan sehari-hari. Facebook sendiri termasuk dalam meta, ketika Anda membuat iklan melalui Facebook Ads, iklan Anda dapat muncul diberbagai platform meta.
+Banyak Sekali Manfaat Facebook Ads untuk Efektivitas Iklan Bisnis - Di era digital yang berkembang pesat, media sosial sudah menjadi bagian yang tidak terpisahkan dari kehidupan sehari-hari. Facebook sendiri termasuk dalam meta, ketika Anda membuat iklan melalui Facebook Ads, iklan Anda dapat muncul diberbagai platform meta.<!--more-->
 
 [Manfaat Facebook Ads untuk Iklan Bisnis Sekarang](https://raw.githubusercontent.com/sebinnus-ux/talebuana/master/assets/Manfaat-Facebook-Ads-Untuk-Bisnis.png)
 
